@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/youssefhihi/leetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/youssefhihi/leetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/youssefhihi/leetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/youssefhihi/leetCode/tree/master/0217-contains-duplicate) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/youssefhihi/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/youssefhihi/leetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/youssefhihi/leetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/youssefhihi/leetCode/tree/master/0258-add-digits) |
 ## Simulation
