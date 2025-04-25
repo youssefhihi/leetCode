@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/youssefhihi/leetCode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/youssefhihi/leetCode/tree/master/0520-detect-capital) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/youssefhihi/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/youssefhihi/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/youssefhihi/leetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/youssefhihi/leetCode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/youssefhihi/leetCode/tree/master/0389-find-the-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/youssefhihi/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/youssefhihi/leetCode/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/youssefhihi/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
