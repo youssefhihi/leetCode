@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/youssefhihi/leetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/youssefhihi/leetCode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/youssefhihi/leetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/youssefhihi/leetCode/tree/master/0412-fizz-buzz) |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/youssefhihi/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/youssefhihi/leetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/youssefhihi/leetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
