@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/youssefhihi/leetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/youssefhihi/leetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/youssefhihi/leetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/youssefhihi/leetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/youssefhihi/leetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/youssefhihi/leetCode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/youssefhihi/leetCode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/youssefhihi/leetCode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/youssefhihi/leetCode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/youssefhihi/leetCode/tree/master/0520-detect-capital) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/youssefhihi/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/youssefhihi/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
