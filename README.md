@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/youssefhihi/leetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/youssefhihi/leetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/youssefhihi/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/youssefhihi/leetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/youssefhihi/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/youssefhihi/leetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/youssefhihi/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/youssefhihi/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/youssefhihi/leetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/youssefhihi/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/youssefhihi/leetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
