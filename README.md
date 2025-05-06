@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/youssefhihi/leetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/youssefhihi/leetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/youssefhihi/leetCode/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/youssefhihi/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/youssefhihi/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Dynamic Programming
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/youssefhihi/leetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/youssefhihi/leetCode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/youssefhihi/leetCode/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/youssefhihi/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/youssefhihi/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Two Pointers
 |  |
