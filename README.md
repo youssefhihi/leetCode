@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/youssefhihi/leetCode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/youssefhihi/leetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/youssefhihi/leetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/youssefhihi/leetCode/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/youssefhihi/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/youssefhihi/leetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/youssefhihi/leetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
