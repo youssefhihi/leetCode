@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/youssefhihi/leetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/youssefhihi/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/youssefhihi/leetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2128-reverse-prefix-of-word](https://github.com/youssefhihi/leetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/youssefhihi/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/youssefhihi/leetCode/tree/master/0202-happy-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/youssefhihi/leetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2128-reverse-prefix-of-word](https://github.com/youssefhihi/leetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/youssefhihi/leetCode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/youssefhihi/leetCode/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
