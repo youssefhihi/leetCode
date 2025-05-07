@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/youssefhihi/leetCode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/youssefhihi/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/youssefhihi/leetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/youssefhihi/leetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/youssefhihi/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Dynamic Programming
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/youssefhihi/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/youssefhihi/leetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/youssefhihi/leetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/youssefhihi/leetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/youssefhihi/leetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/youssefhihi/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String Matching
