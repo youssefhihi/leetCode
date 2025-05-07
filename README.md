@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/youssefhihi/leetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/youssefhihi/leetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/youssefhihi/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2365-percentage-of-letter-in-string](https://github.com/youssefhihi/leetCode/tree/master/2365-percentage-of-letter-in-string) |
 ## String Matching
 |  |
 | ------- |
