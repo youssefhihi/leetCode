@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/youssefhihi/leetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/youssefhihi/leetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/youssefhihi/leetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/youssefhihi/leetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/youssefhihi/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/youssefhihi/leetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/youssefhihi/leetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/youssefhihi/leetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/youssefhihi/leetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/youssefhihi/leetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/youssefhihi/leetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/youssefhihi/leetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/youssefhihi/leetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/youssefhihi/leetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/youssefhihi/leetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/youssefhihi/leetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/youssefhihi/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/youssefhihi/leetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -83,14 +86,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/youssefhihi/leetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/youssefhihi/leetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/youssefhihi/leetCode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/youssefhihi/leetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/youssefhihi/leetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/youssefhihi/leetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/youssefhihi/leetCode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
